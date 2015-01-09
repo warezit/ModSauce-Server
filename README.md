@@ -1,4 +1,4 @@
-# ModSauce-Server
+# zitSauce Server Issue Tracker
 
 Hello all!
 
