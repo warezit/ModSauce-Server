@@ -15,7 +15,7 @@ Also, make sure to check the Official ATLaunchers Forums, someone may have alrea
 3. Copy the URL that was generated
 4. Start a new issue [here](https://github.com/zitSauce/ModSauce-Server/issues)
    * You will need to have a GitHub account, it's free!
-5. Paste the link to your log file with your issue
+5. Paste the link to your log file
    * Issues without links to log files will either be ignored or deleted/closed
 6. Don't forget to give us a little story with your newly posted issue. Like what was happening right before things got messed up...
 
