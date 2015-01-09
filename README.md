@@ -4,7 +4,7 @@ This GitHub repo is an **issue tracker** for our ModSauce Server: **zitSauce**
 
 # Issues on the server, or with your client?
 
-Check the "Issues" here: https://github.com/zitSauce/ModSauce-Server/issues
+Check our "Issues" here: https://github.com/zitSauce/ModSauce-Server/issues
 
 Also, make sure to check the Official ATLaunchers Forums, someone may have already posted your issue there: http://forums.atlauncher.com/forum-70.html
 
