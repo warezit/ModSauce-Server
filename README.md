@@ -16,7 +16,9 @@ If you still need help and you don't see your issue listed anywhere, start a new
    * Issues without links to log files will either be ignored or deleted/closed.
 4. Give a summary of what you were doing that may have caused the issue.
 
-If your client crashed before you could upload your log file, do this: (do not use pastebin, your log file will be too large; they restrict file size for free users)
+**If your client crashed before you could upload your log file, do this:** 
+
+(do not use pastebin, your log file will be too large; they restrict file size for free users)
 
 1. Open the ATLauncher
 2. Click "Instances"
@@ -27,7 +29,7 @@ If your client crashed before you could upload your log file, do this: (do not u
 6. Hit CTRL + A to select all the text in the log file
 7. Hit CTRL + C to copy all the text in the log file
 8. Goto: https://gist.github.com/
-   * You may need to make a new account with GutHub, it's free!
+   * You will need to have a GutHub account, it's free!
 9. Fill in the 2 top parts, where it says "Gist description", and "Name this file"
 10. Then, hit CTRL + V to paste your log file in the main box.
 11. Click "Create public Gist"
