@@ -5,6 +5,8 @@ Hello all!
 
 This is a GitHub page about our ModSauce Server: zitSauce
 
-Have you had any issues on the server, or with your client? Check the "Issues" link on the right ->
+# Issues on the server, or with your client? 
+Check the "Issues" here: https://github.com/zitSauce/ModSauce-Server/issues
 
-Visit our website here: http://steamtrade.me/projects/zs/zitsauce
+Visit the zitSauce website here:
+http://steamtrade.me/projects/zs/zitsauce
