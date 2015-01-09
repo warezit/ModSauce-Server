@@ -29,12 +29,12 @@ Also, make sure to check the Official ATLaunchers Forums, someone may have alrea
 4. Click "Open Folder"
 5. Navigate to the "logs" folder
 5. Open the most recent log file, named "fml-client-latest.log" in your favorite text editor
-6. Hit *CTRL + A*, to select all the text in the log file
-7. Hit *CTRL + C*, to copy all the text in the log file
+6. Hit *CTRL + A* to select all the text in the log file
+7. Hit *CTRL + C* to copy all the text in the log file
 8. Goto: https://gist.github.com/
    * You will need to have a GitHub account, it's free!
 9. Fill in the top 2 boxes, where it says "Gist description", and "Name this file"
-10. Then, hit *CTRL + V*, to paste your log file in the main box
+10. Then, hit *CTRL + V* to paste your log file in the main box
 11. Click "Create public Gist"
    * Be patient while it uploads
 12. Once you see a new page, with your log file shown, copy the URL from your address bar
