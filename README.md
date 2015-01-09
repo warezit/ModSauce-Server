@@ -12,9 +12,11 @@ Also, make sure to check the Official ATLaunchers Forums, someone may have alrea
 
 1. Open your ATLauncher Console window
 2. Click the button "Upload Log"
-3. Paste the link to your log file with your issue.
-   * Issues without links to log files will either be ignored or deleted/closed.
-4. Give a summary of what you were doing that may have caused the issue.
+3. Start a new issue [here](https://github.com/zitSauce/ModSauce-Server/issues)
+   * You will need to have a GitHub account, it's free!
+4. Paste the link to your log file with your issue
+   * Issues without links to log files will either be ignored or deleted/closed
+5. Don't forget to give us a little story with your newly posted issue. Like what was happening right before things got messed up...
 
 **If your client crashed before you could upload your log file, do this:** 
 
@@ -29,13 +31,14 @@ Also, make sure to check the Official ATLaunchers Forums, someone may have alrea
 6. Hit CTRL + A to select all the text in the log file
 7. Hit CTRL + C to copy all the text in the log file
 8. Goto: https://gist.github.com/
-   * You will need to have a GutHub account, it's free!
+   * You will need to have a GitHub account, it's free!
 9. Fill in the 2 top parts, where it says "Gist description", and "Name this file"
-10. Then, hit CTRL + V to paste your log file in the main box.
+10. Then, hit CTRL + V to paste your log file in the main box
 11. Click "Create public Gist"
    * Be patient while it uploads
 12. Once you see a new page, with your log file shown, copy the URL
 13. Then start a new issue [here](https://github.com/zitSauce/ModSauce-Server/issues). Paste the URL to your log file, with your newly posted issue.
+   * Issues without links to log files will either be ignored or deleted/closed
 14. Don't forget to give us a little story with your newly posted issue. Like what was happening right before things got messed up...
 
 # Questions?
