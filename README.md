@@ -33,7 +33,7 @@ Also, make sure to check the Official ATLaunchers Forums, someone may have alrea
 7. Hit *CTRL + C* to copy all the text in the log file
 8. Goto: https://gist.github.com/
    * You will need to have a GitHub account, it's free!
-9. Fill in the 2 top parts, where it says "Gist description", and "Name this file"
+9. Fill in the top 2 boxes, where it says "Gist description", and "Name this file"
 10. Then, hit *CTRL + V* to paste your log file in the main box
 11. Click "Create public Gist"
    * Be patient while it uploads
