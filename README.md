@@ -35,7 +35,7 @@ Also, make sure to check the Official ATLaunchers Forums, someone may have alrea
 11. Click "Create public Gist"
    * Be patient while it uploads
 12. Once you see a new page, with your log file shown, copy the URL
-13. Then start a new issue, in our Issue Tracker, and paste the URL to your log file, with your newly posted issue.
+13. Then start a new issue [here](https://github.com/zitSauce/ModSauce-Server/issues). Paste the URL to your log file, with your newly posted issue.
 14. Don't forget to give us a little story with your newly posted issue. Like what was happening right before things got messed up...
 
 # Questions?
