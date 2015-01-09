@@ -6,9 +6,11 @@ This GitHub page is inteded to be an "issue tracker" for our ModSauce Server: **
 
 Check the "Issues" here: https://github.com/zitSauce/ModSauce-Server/issues
 
-If you are having an issue with your client or the server, please post it in the Issue Tracker.
+If you are having issues, use the link above to post a new issue.
 
-If you need help, start a new issue following these steps:
+If you need help, check the list of issues before you start a new one.
+
+If you don't see your issue listed already, start a new issue following these steps:
 
 1. Open your ATLauncher Console window
 2. Click the button "Upload Log"
