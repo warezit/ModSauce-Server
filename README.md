@@ -1,7 +1,5 @@
 # zitSauce Server Issue Tracker
 
-Hello all!
-
 This GitHub page is inteded to be an "issue tracker" for our ModSauce Server: **zitSauce**
 
 # Issues on the server, or with your client?
