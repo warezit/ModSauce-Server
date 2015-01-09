@@ -1,5 +1,4 @@
 # ModSauce-Server
-ModSauce Server
 
 Hello all!
 
@@ -7,7 +6,9 @@ This GitHub page is inteded to be an "issue tracker" for our ModSauce Server: zi
 
 # Issues on the server, or with your client?
 
-Check the "Issues" here: https://github.com/zitSauce/ModSauce-Server/issues
+Check the "Issues" here:
+
+https://github.com/zitSauce/ModSauce-Server/issues
 
 # Questions?
 
