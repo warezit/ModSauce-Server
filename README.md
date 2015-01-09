@@ -6,9 +6,9 @@ This GitHub page is inteded to be an "issue tracker" for our ModSauce Server: **
 
 Check the "Issues" here: https://github.com/zitSauce/ModSauce-Server/issues
 
-Make sure to check the Official ATLaunchers Forums before posting your issue: http://forums.atlauncher.com/forum-70.html
+Also, make sure to check the Official ATLaunchers Forums, someone may have already posted your issue there: http://forums.atlauncher.com/forum-70.html
 
-If you still need help and you don't see your issue listed already in our issue tracker, or in the Official ATLaunchers Forum, start a new issue [here](https://github.com/zitSauce/ModSauce-Server/issues) following these steps:
+If you still need help and you don't see your issue listed anywhere, start a new issue [here](https://github.com/zitSauce/ModSauce-Server/issues) following these steps:
 
 1. Open your ATLauncher Console window
 2. Click the button "Upload Log"
