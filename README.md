@@ -18,7 +18,7 @@ Also, make sure to check the Official ATLaunchers Forums, someone may have alrea
 
 **If your client crashed before you could upload your log file, do this:** 
 
-(do not use pastebin, your log file will be too large; they restrict file size for free users)
+*Do NOT use pastebin, your log file will be too large; they restrict file size for free users*
 
 1. Open the ATLauncher
 2. Click "Instances"
