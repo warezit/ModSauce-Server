@@ -12,6 +12,6 @@ Check the "Issues" here: https://github.com/zitSauce/ModSauce-Server/issues
 
 Visit the zitSauce website here: http://steamtrade.me/projects/zs/zitsauce
 
-# Unofficial ModSauce Wiki & YouTube Index
+# Unofficial ModSauce Wiki Index
 
-http://steamtrade.me/projects/zs/wiki
+Need help with the mods in this modpack? http://steamtrade.me/projects/zs/wiki
