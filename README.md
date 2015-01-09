@@ -16,6 +16,7 @@ If you don't see your issue listed already, start a new issue following these st
 2. Click the button "Upload Log"
 3. Paste the link to your log file with your issue.
    * Issues without links to log files will either be ignored or deleted/closed.
+4. Give a summary of what you were doing that may have caused the issue.
 
 # Questions?
 
