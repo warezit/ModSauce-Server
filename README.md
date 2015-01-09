@@ -1,6 +1,6 @@
 # zitSauce Server Issue Tracker
 
-This GitHub repo is inteded to be an **issue tracker** for our ModSauce Server: **zitSauce**
+This GitHub repo is an **issue tracker** for our ModSauce Server: **zitSauce**
 
 # Issues on the server, or with your client?
 
